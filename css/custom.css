@@ -1,0 +1,59 @@
+.navbar-brand-custom
+{
+    font-size:16px;
+    
+}
+.customFirstNavBar a:hover{
+    color:#cbd1cb !important;
+}
+.mart span{
+    color:#1abc9c;
+    font-weight: bolder;
+    font-size:30px;
+}
+.mart {
+    color:#656262;
+    font-size:30px;
+}
+.navbarCustom{
+    background-color: #ffffff !important;
+    padding:15px;
+}
+.CustomNavbar a{
+    color:#0f0101 !important;
+    font-size:16px;
+    font-weight: bolder;
+    font-family: Open Sans; 
+}
+
+.CustomNavbar a:hover{
+    color:#1abc9c !important;
+    font-size:16px;
+    font-weight: bolder;
+    font-family: Open Sans; 
+}
+.customNavbarText
+{
+    color:#0f0101 !important;
+    font-size:20px;
+}
+
+  /*
+  .carousel-inner{
+    width:100%;
+    max-height: 500px !important;
+    min-height: 500px !important; 
+  }
+  */
+
+  .carousel-item img{
+    height:400px !important;
+  }
+  .NewCollectCont{
+      background-color:#e9f0fd;
+      color:#515151;
+  }
+  .NewCollectCont h1{
+    margin-top:80px;
+}
+
