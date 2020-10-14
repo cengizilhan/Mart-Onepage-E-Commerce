@@ -392,6 +392,8 @@ background-size:cover;
         flex-direction: row;
         margin: 5px;
         color:white;
+        padding-left:1px;
+        padding-top:1px;
     }
     .contactus .boxIcon:hover{
         background-color: #4ec6ab;
