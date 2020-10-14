@@ -368,3 +368,65 @@ background-size:cover;
         background-color: gray;
         border-color:gray;
     }
+    .contactuscontainer
+    {
+        background-color: #2d3237;
+        color:white;
+    }
+    .contactuscontainer h1{
+        margin-top:70px;
+        margin-bottom:70px;
+    }
+    .contactus{
+        background-color: #2d3237;
+        color:white;
+    }
+    .contactus b{
+        color:#4ec6ab;
+    }
+    .contactus .boxIcon{
+        
+        width: 40px;
+        height:40px;
+        border:2px solid white;
+        flex-direction: row;
+        margin: 5px;
+        color:white;
+    }
+    .contactus .boxIcon:hover{
+        background-color: #4ec6ab;
+    }
+    .contactus img{
+        filter: brightness(0) invert(1);
+    }
+    .Textbox1
+    {
+        background-color: #2d3237;
+        border: 1px solid white;
+        color:white
+    }
+    .Textbox1:focus
+    {
+        outline: none !important;
+        
+        columns: #4ec6ab !important;
+        border: 1px solid #4ec6ab !important;
+    }
+    .Textbox1:focus
+    {
+        border: 1px solid #4ec6ab;
+        color:#4ec6ab;
+    }
+    .sendBtn{
+        background-color: #4ec6ab;
+        color:white;
+        width:120px;
+        height:40px;
+        font-size:20px;
+        font-weight:600;
+    }
+    .footer{
+        background-color: black;
+        color:white;
+        padding: 10px;
+    }
