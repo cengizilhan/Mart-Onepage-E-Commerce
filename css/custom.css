@@ -98,13 +98,13 @@
 
 */
 .ColSelector > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/new-collection/category-1.jpg") ;}
+{background-image: url("../imgs/new-collection/category-1.jpg") ;}
 .ColSelector2 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/new-collection/category-2.jpg") ;}
+{background-image: url("../imgs/new-collection/category-2.jpg") ;}
 .ColSelector3 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/new-collection/category-3.jpg") ;}
+{background-image: url("../imgs/new-collection/category-3.jpg") ;}
 .ColSelector4 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/new-collection/category-4.jpg") ;}
+{background-image: url("../imgs/new-collection/category-4.jpg") ;}
 .SecondCollectBox {
  color:red;
  background-color: rgba(0, 0, 0, 0.418);
@@ -218,24 +218,24 @@ font-size:17px;
 
 
 .FeatSelector > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/featuredproducts/product1.png") ;}
+{background-image: url("../imgs/featuredproducts/product1.png") ;}
 .FeatSelector2 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/featuredproducts/product2.png") ;}
+{background-image: url("../imgs/featuredproducts/product2.png") ;}
 .FeatSelector3 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/featuredproducts/product3.png") ;}
+{background-image: url("../imgs/featuredproducts/product3.png") ;}
 .FeatSelector4 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/featuredproducts/product4.png") ;}
+{background-image: url("../imgs/featuredproducts/product4.png") ;}
 .FeatSelector4 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/featuredproducts/product4.png") ;}
+{background-image: url("../imgs/featuredproducts/product4.png") ;}
 .FeatSelector5 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/featuredproducts/product5.png") ;}
+{background-image: url("../imgs/featuredproducts/product5.png") ;}
 
 .FeatSelector6 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/featuredproducts/product6.png") ;}
+{background-image: url("../imgs/featuredproducts/product6.png") ;}
 .FeatSelector7 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/featuredproducts/product7.png") ;}
+{background-image: url("../imgs/featuredproducts/product7.png") ;}
 .FeatSelector8 > .NewCollectBox:nth-child(1)
-{background-image: url("/imgs/featuredproducts/product8.png") ;}
+{background-image: url("../imgs/featuredproducts/product8.png") ;}
 
 .featuredV2 {
     width: 100%;
@@ -266,7 +266,7 @@ font-size:17px;
  .customerPic
  {
 
-    background-image: url("/imgs/customers/team2_cebraililhan.jpg");
+    background-image: url("../imgs/customers/team2_cebraililhan.jpg");
     background-size:cover;
     width: 250px;
     height: 250px;
@@ -295,20 +295,20 @@ background-size:cover;
     border: 3px solid #4ec6ab;
     margin:10px;
     margin-top:40px;
-    background-image: url("/imgs/customers/team3_cebraililhan.jpg");
+    background-image: url("../imgs/customers/team3_cebraililhan.jpg");
     display: inline-block;
     margin-bottom:80px;
  }
 
  .SmallContainer .customerPicSmall:nth-child(1)
  {
-    background-image: url("/imgs/customers/team1_cebraililhan.jpg") !important;}
+    background-image: url("../imgs/customers/team1_cebraililhan.jpg") !important;}
  .SmallContainer .customerPicSmall:nth-child(2)
     {
-       background-image: url("/imgs/customers/team3_cebraililhan.jpg") !important;}
+       background-image: url("../imgs/customers/team3_cebraililhan.jpg") !important;}
 .SmallContainer .customerPicSmall:nth-child(3)
        {
-          background-image: url("/imgs/customers/team4_cebraililhan.jpg") !important;
+          background-image: url("../imgs/customers/team4_cebraililhan.jpg") !important;
         background-position-x: center;
         background-position-y: center;
     }
