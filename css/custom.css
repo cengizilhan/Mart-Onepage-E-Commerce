@@ -110,16 +110,22 @@
  background-color: rgba(0, 0, 0, 0.418);
  width: 100%;
  height:100%;
- 
+ opacity:0.0;
 position: absolute;
- display: none;
+
  transition-duration: 1s;
+ animation-duration:3s;
+ visibility: hidden;
 }
 .NewCollectBox:hover>
 .SecondCollectBox{
-display: block;
-transition: 0.3s;
-transition-duration: 1s;
+    transition-duration: 1s;
+    animation-duration:3s;
+    opacity:1;
+    transition: 0.3s;
+    visibility: visible;
+
+
 
 }
 .NewCollectBox:hover>.flex-container
